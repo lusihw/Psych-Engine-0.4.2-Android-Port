@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Markid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey guys, MarKid here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "MarKid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hope you enjoy this little demo of Friday Night Funkin B-Sides ReWritten."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "MarKid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Unfortunately the only week you can play is Week 3 at the moment, but the others will be done in due time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "MarKid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Also when the full mod gets released this message will be removed."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "MarKid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But before anyone asks, no I'm not the original creator of the B-Sides mod and I don't take credit for the original creators."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boyfriend",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hey, uh, how much longer am I going to have to wait before our mod gets released."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "MarKid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't worry about it, we'll be finished soon enough."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "boyfriend",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Well, if you say so."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "MarKid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, now have fun with this mod"
+		}
+	]
+}
