@@ -1,0 +1,167 @@
+{
+	"position": [
+		-70,
+		-60
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "characters/BF",
+	"animations": [
+		{
+			"loop_offsets": [
+				-59,
+				30
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				-59,
+				30
+			],
+			"loop_name": "HappyTalking",
+			"idle_name": "HappyBlinking"
+		},
+		{
+			"loop_offsets": [
+				-34,
+				30
+			],
+			"anim": "cheary",
+			"idle_offsets": [
+				-34,
+				30
+			],
+			"loop_name": "ChearyTalking",
+			"idle_name": "ChearyBlinking"
+		},
+		{
+			"loop_offsets": [
+				-59,
+				30
+			],
+			"anim": "thumbsup",
+			"idle_offsets": [
+				-59,
+				30
+			],
+			"loop_name": "ThumbsupTalking",
+			"idle_name": "ThumbsupBlinking"
+		},
+		{
+			"idle_offsets": [
+				-59,
+				30
+			],
+			"anim": "angrysad",
+			"loop_offsets": [
+				-59,
+				30
+			],
+			"idle_name": "AngrySadBlinking",
+			"loop_name": "AngrySadTalking"
+		},
+		{
+			"loop_offsets": [
+				-59,
+				30
+			],
+			"anim": "annoyed",
+			"idle_offsets": [
+				-59,
+				30
+			],
+			"loop_name": "AnnoyedTalking",
+			"idle_name": "AnnoyedBlinking"
+		},
+		{
+			"loop_offsets": [
+				-59,
+				30
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				-59,
+				30
+			],
+			"loop_name": "SadTalking",
+			"idle_name": "SadBlinking"
+		},
+		{
+			"loop_offsets": [
+				-59,
+				30
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-59,
+				30
+			],
+			"loop_name": "ConfusedTalking",
+			"idle_name": "ConfusedBlinking"
+		},
+		{
+			"loop_offsets": [
+				-11,
+				30
+			],
+			"anim": "away",
+			"idle_offsets": [
+				-11,
+				30
+			],
+			"loop_name": "LookAwayTalking",
+			"idle_name": "LookAwayBlinking"
+		},
+		{
+			"idle_offsets": [
+				-61,
+				10
+			],
+			"anim": "down",
+			"loop_offsets": [
+				-61,
+				10
+			],
+			"idle_name": "LookDownBlinking",
+			"loop_name": "LookDownTalking"
+		},
+		{
+			"idle_offsets": [
+				-59,
+				30
+			],
+			"anim": "nervous",
+			"loop_offsets": [
+				-59,
+				30
+			],
+			"idle_name": "NervousBlinking",
+			"loop_name": "NervousTalking"
+		},
+		{
+			"idle_offsets": [
+				-59,
+				30
+			],
+			"anim": "worried",
+			"loop_offsets": [
+				-59,
+				30
+			],
+			"idle_name": "WorriedBlinking",
+			"loop_name": "WorriedTalking"
+		},
+		{
+			"loop_offsets": [
+				-11,
+				30
+			],
+			"anim": "flushed",
+			"idle_offsets": [
+				-11,
+				30
+			],
+			"loop_name": "FlushedTalking",
+			"idle_name": "FlushedBlinking"
+		}
+	]
+}
