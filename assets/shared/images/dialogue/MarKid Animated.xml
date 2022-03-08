@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MarKid Animated.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MarKid Dialogue0000" x="0" y="0" width="454" height="795"/>
+	<SubTexture name="MarKid Dialogue0001" x="496" y="0" width="454" height="795"/>
+	<SubTexture name="MarKid Dialogue0002" x="992" y="0" width="454" height="795"/>
+	<SubTexture name="MarKid Dialogue0003" x="496" y="0" width="454" height="795"/>
+	<SubTexture name="MarKid Dialogue0004" x="0" y="0" width="454" height="795"/>
+</TextureAtlas>
